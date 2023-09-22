@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-photoappotp-dev-202231-authRole",
+      "UnauthRoleArn": "arn:aws:iam::328551802180:role/amplify-photoappotp-dev-202231-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::328551802180:role/amplify-photoappotp-dev-202231-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-photoappotp-dev-202231-deployment",
+      "UnauthRoleName": "amplify-photoappotp-dev-202231-unauthRole",
+      "StackName": "amplify-photoappotp-dev-202231",
+      "StackId": "arn:aws:cloudformation:us-west-2:328551802180:stack/amplify-photoappotp-dev-202231/4495d2e0-58f7-11ee-8797-06b3a16526c1",
+      "AmplifyAppId": "ds7ui3iuxcvlr"
+    },
+    "categories": {
+      "api": {
+        "photoappotp": {}
+      }
+    }
+  }
+}
